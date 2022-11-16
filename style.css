@@ -21,9 +21,8 @@ nav a {
   background-color: gray;
 }
 
-img {
-  margin: 0 auto;
-  display: block;
+figure {
+text-align: center;
 }
 
 figcaption {
