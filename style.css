@@ -4,8 +4,11 @@ body {
   margin: 0;
 }
 
-p#featured-property {
+#featured-property p {
   width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 10px;
 }
 
 header {
